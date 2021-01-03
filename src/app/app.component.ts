@@ -14,12 +14,12 @@ export class AppComponent implements OnInit
     
     this.rowData=[
       {"ID":1,"Name":"Abhishek","Address":"ABC","FName":"ABC","MName":"ABC","Contact":"1234123412","Designation":"ABC"},
-      {"ID":1,"Name":"Abhishek","Address":"ABC","FName":"ABC","MName":"ABC","Contact":"1234123412","Designation":"ABC"},
-      {"ID":1,"Name":"Abhishek","Address":"ABC","FName":"ABC","MName":"ABC","Contact":"1234123412","Designation":"ABC"},
-      {"ID":1,"Name":"Abhishek","Address":"ABC","FName":"ABC","MName":"ABC","Contact":"1234123412","Designation":"ABC"},
-      {"ID":1,"Name":"Abhishek","Address":"ABC","FName":"ABC","MName":"ABC","Contact":"1234123412","Designation":"ABC"},
-      {"ID":1,"Name":"Abhishek","Address":"ABC","FName":"ABC","MName":"ABC","Contact":"1234123412","Designation":"ABC"},
-      {"ID":1,"Name":"Abhishek","Address":"ABC","FName":"ABC","MName":"ABC","Contact":"1234123412","Designation":"ABC"}
+      {"ID":2,"Name":"Abhishek","Address":"ABC","FName":"ABC","MName":"ABC","Contact":"1234123412","Designation":"ABC"},
+      {"ID":3,"Name":"Abhishek","Address":"ABC","FName":"ABC","MName":"ABC","Contact":"1234123412","Designation":"ABC"},
+      {"ID":4,"Name":"Abhishek","Address":"ABC","FName":"ABC","MName":"ABC","Contact":"1234123412","Designation":"ABC"},
+      {"ID":5,"Name":"Abhishek","Address":"ABC","FName":"ABC","MName":"ABC","Contact":"1234123412","Designation":"ABC"},
+      {"ID":6,"Name":"Abhishek","Address":"ABC","FName":"ABC","MName":"ABC","Contact":"1234123412","Designation":"ABC"},
+      {"ID":7,"Name":"Abhishek","Address":"ABC","FName":"ABC","MName":"ABC","Contact":"1234123412","Designation":"ABC"}
     ];
 
     this.columnDefs = [
